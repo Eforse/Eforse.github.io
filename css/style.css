@@ -2,6 +2,7 @@ body {
 	padding: 0px;
 	margin: 0px;
 	min-width: 1000px;
+	background-image: url(../img/back.jpg);
 }
 
 .Header {
@@ -9,6 +10,9 @@ body {
 		margin-top: 100px;
 		margin-left: 175px;
 		margin-right: 275px;
+		background: #eeeeee;
+		padding-bottom: 30px;
+		border-radius: 10px;
 
 }
 
@@ -46,7 +50,12 @@ p {
 .Name {
 	display: block;
 	float: left;
+	padding-left: 30px;
+	padding-right: 30px;
 	padding-top: 20px;
+	background: #eeeeee;
+	border-radius: 20px;
+
 
 }
 
@@ -55,15 +64,21 @@ a {
 	list-style-type: none;
 	margin-right: 60px;
 	color: black;
-	background: #D7D5D5;
 	padding: 3px;
 	border-radius: 10px;
+  background: #E8CCB5;
+  color: #B05151;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+
+  
+}
 
 
 }
 
 li {
 	margin-top: 20px;
+	padding-bottom: 20px;
 }
 .menu {
 	list-style-type: none;
