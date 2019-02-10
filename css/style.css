@@ -9,7 +9,7 @@ body {
 		display: block;
 		margin-top: 100px;
 		margin-left: 175px;
-		margin-right: 275px;
+		margin-right: 210px;
 		background: #eeeeee;
 		padding-bottom: 30px;
 		border-radius: 10px;
@@ -32,7 +32,7 @@ body {
 
 .text {
 	display: inline-block;
-	padding-left: 50px;
+	padding-left: 10px;
 	padding-top: 73px;
 
 }
@@ -62,7 +62,7 @@ p {
 a {
 	text-decoration: none;
 	list-style-type: none;
-	margin-right: 60px;
+	margin-right: 50px;
 	color: black;
 	padding: 3px;
 	border-radius: 10px;
